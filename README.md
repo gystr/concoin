@@ -19,6 +19,6 @@ A flutter coin flipping app where the user controls the outcome of the coin.
 
 
 ## Download
-<a href='https://play.google.com/store/apps' ><img src="https://user-images.githubusercontent.com/38810886/132952974-8ff8f806-e06e-4ed3-b7f6-5c016d6bcb03.png"></a>
+<a href='https://play.google.com/store/apps/details?id=bombadev.concoin' ><img src="https://user-images.githubusercontent.com/38810886/132952974-8ff8f806-e06e-4ed3-b7f6-5c016d6bcb03.png"></a>
 
 
